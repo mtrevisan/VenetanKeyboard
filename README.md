@@ -25,7 +25,7 @@ Eseguire la combinazione non comporta l'invio di un carattere, ma il successivo 
 ### Elenco dei dead key e relativi modificatori
 
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>ò</kbd>: **cedilla** (es. Ç)
-* <kbd>AltGr</kbd>+<kbd>ù</kbd>: **accento grave** (es. Ỳ, È)
-* <kbd>AltGr</kbd>+<kbd>,</kbd>: **accento acuto** (es. á, í, ú)
+* <kbd>AltGr</kbd>+<kbd>'</kbd>: **accento grave** (es. Ỳ, È)
+* <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>'</kbd>: **accento acuto** (es. á, í, ú)
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>.</kbd>: **dieresi** (es. Ä, ö, ü)
 * <kbd>AltGr</kbd>+<kbd>-</kbd>: **vocale lunga** (o _macron_) (es. ā, Ē)
