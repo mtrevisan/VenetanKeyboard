@@ -19,7 +19,7 @@ Nessun modificatore.
 
 Ogni combinazione valida sulla tastiera con layout italiano è valida anche su questo e produce gli stessi caratteri.
 
-I caratteri che nello schema sono evidenziati in rosa sono detti *dead keys* e consentono di attivare alcuni **modificatori** dei caratteri.
+I caratteri che nello schema sono evidenziati in grigetto sono detti *dead keys* e consentono di attivare alcuni **modificatori** dei caratteri.
 Eseguire la combinazione non comporta l'invio di un carattere, ma il successivo simbolo digitato, se compatibile, verrà modificato opportunamente.
 
 ### Elenco dei dead keys e relativi modificatori
