@@ -1,6 +1,6 @@
 # Venetan Keyboard
 
-Layout della tastiera italiana per Windows modificata per l'Alfabeto Veneto Naturale.
+Layout della tastiera italiana per Windows modificata per l'[Alfabeto Veneto Naturale](https://parnodexmentegar.orgfree.com/pages/vec/alphabet.html).
 
 ## Schema
 
