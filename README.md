@@ -6,23 +6,23 @@ Layout della tastiera italiana per Windows modificata per l'Alfabeto Veneto Natu
 
 Nessun modificatore.
 
-![keyboard with dead keys](images/Venetan.webp?raw=true)
+![keyboard plain](images/Venetan.webp?raw=true)
 
 **Shift**
-![keyboard with dead keys](images/VenetanShft.webp?raw=true)
+![keyboard shift](images/VenetanShft.webp?raw=true)
 
 **AltGr**
-![keyboard with dead keys](images/VenetanAltGr.webp?raw=true)
+![keyboard altgr](images/VenetanAltGr.webp?raw=true)
 
 **Shift** **AltGr**
-![keyboard with dead keys](images/VenetanShftAltGr.webp?raw=true)
+![keyboard shift altgr](images/VenetanShftAltGr.webp?raw=true)
 
 Ogni combinazione valida sulla tastiera con layout italiano è valida anche su questo e produce gli stessi caratteri.
 
-I caratteri che nello schema sono evidenziati in grigetto sono detti *dead keys* e consentono di attivare alcuni **modificatori** dei caratteri.
-Eseguire la combinazione non comporta l'invio di un carattere, ma il successivo simbolo digitato, se compatibile, verrà modificato opportunamente.
+I caratteri che nello schema sono evidenziati in grigetto sono detti *dead key* e consentono di attivare alcuni **modificatori** dei caratteri.
+Eseguire la combinazione non comporta l'invio di un carattere, ma il successivo simbolo digitato, se compatibile, verrà modificato opportunamente aggiungendo il corrispondente modificatore.
 
-### Elenco dei dead keys e relativi modificatori
+### Elenco dei dead key e relativi modificatori
 
 * <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>ò</kbd>: **cedilla** (es. Ç)
 * <kbd>AltGr</kbd>+<kbd>ù</kbd>: **accento grave** (es. Ỳ, È)
