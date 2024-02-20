@@ -4,14 +4,18 @@ Layout della tastiera italiana per Windows modificata per l'Alfabeto Veneto Natu
 
 ## Schema
 
-![keyboard with dead keys](images/layout.png?raw=true)
+Nessun modificatore.
 
-Su ogni tasto sono riportati quattro caratteri:
+![keyboard with dead keys](images/Venetan.webp?raw=true)
 
-* in basso a sinistra il carattere prodotto dal tasto senza modificatori (es. <kbd>A</kbd>)
-* in alto a sinistra il carattere ottenuto con la pressione del tasto **Shift** (es. <kbd>Shift</kbd>+<kbd>A</kbd>)
-* in basso a destra il carattere ottenuto con **AltGr** (es. <kbd>AltGr</kbd>+<kbd>A</kbd>)
-* in alto a destra il carattere ottenuto con la pressione simultanea di **Shift** e **AltGr** (es. <kbd>Shift</kbd>+<kbd>AltGr</kbd>+<kbd>A</kbd>)
+**Shift**
+![keyboard with dead keys](images/VenetanShft.webp?raw=true)
+
+**AltGr**
+![keyboard with dead keys](images/VenetanAltGr.webp?raw=true)
+
+**Shift** **AltGr**
+![keyboard with dead keys](images/VenetanShftAltGr.webp?raw=true)
 
 Ogni combinazione valida sulla tastiera con layout italiano è valida anche su questo e produce gli stessi caratteri.
 
